@@ -6,6 +6,7 @@ const Navbar = () => {
 	return (
 		<NavbarContainer>
 			<Navigate to="profile">Profile</Navigate>
+			<Navigate to="exp">Exp</Navigate>
 		</NavbarContainer>
 	)
 }
